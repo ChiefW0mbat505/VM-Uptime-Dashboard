@@ -1,0 +1,12 @@
+# Example subscriptions file
+# Add your Azure subscription IDs here, one per line
+# Lines starting with # are comments and will be ignored
+
+# Production Subscriptions
+# xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
+
+# Development Subscriptions
+# yyyyyyyy-yyyy-yyyy-yyyy-yyyyyyyyyyyy
+
+# Testing Subscriptions
+# zzzzzzzz-zzzz-zzzz-zzzz-zzzzzzzzzzzz
