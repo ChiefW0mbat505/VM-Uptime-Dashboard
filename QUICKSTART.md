@@ -95,4 +95,3 @@ Environment=Prod
 - **Full Deployment Guide**: docs/DEPLOYMENT.md
 - **User Guide**: docs/USER_GUIDE.md
 - **Configuration Details**: DEPLOYMENT_CONFIG.md
-- **JIRA Ticket**: SYSOPS-37568
