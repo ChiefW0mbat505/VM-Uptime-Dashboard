@@ -105,6 +105,4 @@ All resources are tagged with:
 - Managed Identity for Azure service authentication
 - Secrets stored in Azure Key Vault
 
-## License
 
-Internal use only - Cignium
